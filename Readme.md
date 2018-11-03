@@ -3,3 +3,5 @@ Demonstrating GIT Capabilities.
 This is a Readme file.
 
 Master branch
+
+creating a new branch "Rainbow".
