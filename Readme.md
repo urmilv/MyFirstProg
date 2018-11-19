@@ -1,8 +1,9 @@
-<<<<< HEAD
-This is a Readme file.
+# Starrer Web Project
 
-Master branch
+# Introduction
 
-creating a new branch "Rainbow".
-=======
->>>>>>> Changed  the content of Readme file.
+# Synopsis
+
+# Objective
+
+
